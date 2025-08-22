@@ -1,4 +1,4 @@
-strstreamlit
+streamlit
 pandas
 numpy
-matplotlibeamlit
+matplotlib
